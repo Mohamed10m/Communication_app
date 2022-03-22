@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "52301300350",
+    "project_id": "communication-app-b86cd",
+    "storage_bucket": "communication-app-b86cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52301300350:android:5ab0ef71ca39ed1cdb4e2f",
+        "android_client_info": {
+          "package_name": "com.flutter.communication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52301300350-kobu6itnc6vnkim9f415hfdu3sihuac3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.communication_app",
+            "certificate_hash": "5a3ac38cd3eb5a82cb8136eb869e65ffc3fd97d4"
+          }
+        },
+        {
+          "client_id": "52301300350-4e90vr0pcv1u4vbge2nvop6c0l68rt6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4H4fI1WCExBd60xWExoirKJvXkSM0WO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52301300350-4e90vr0pcv1u4vbge2nvop6c0l68rt6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
